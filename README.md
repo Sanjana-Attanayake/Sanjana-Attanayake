@@ -17,7 +17,7 @@
 
 - :seedling: My interests are software development (WEB/ Desktop) and AI/ML.
 
-- :zap: I'm passionate about competitive programming and hackathons.
+- :zap: I'm passionate about competitive programming, robotics and astronomy.
 
 <br>
 
