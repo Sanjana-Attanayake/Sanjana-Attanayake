@@ -1,23 +1,23 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
 <br>
 
-<div id="badges">
+<div align="center">
+  <h3>I'm Sanjana Attanayake</h3>
+  😄: She/ Her <br>
+  📖: I'm a Computer Science undergraduate at Uva Wellassa University<br>
+  🌱: My interests are software development (WEB/ Desktop) and AI/ML.<br>
+</div>
+
+<br>
+
+<div id="badges" align="center">
+  <h4>Find me on</h4>
   <a href="https://www.linkedin.com/in/sanjana-attanayake/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<br>
-
-# I'm Sanjana Attanayake <br>
-
-- 😄: She/ Her
-- :telescope: I'm currently a Computer Science undergraduate.
-
-- :seedling: My interests are software development (WEB/ Desktop) and AI/ML.
-
-- :zap: I'm passionate about competitive programming, robotics and astronomy.
 
 <br>
 
