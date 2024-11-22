@@ -1,34 +1,105 @@
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center">Hi 👋, I'm Sanjana Attanayake</h1>
+<h3 align="center">Just another curious tech enthusiast</h3>
+<p align="center"><a href="https://linkedin.com/in/sanjana-attanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-attanayake" height="30" width="40" /></a></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sa-tester&label=Profile%20views&color=0e75b6&style=flat" alt="sa-tester" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sa-tester" alt="sa-tester" /></a> </p>
+
+<p align="center">- 📫 How to reach me <b>siattanayake@gmail.com</b></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>     </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+</p>
 
 <br>
-
-<div align="center">
-  <h3>I'm Sanjana Attanayake</h3>
-  😄: She/ Her <br>
-  📖: I'm a Computer Science undergraduate at Uva Wellassa University<br>
-  🌱: My interests are software development (WEB/ Desktop) and AI/ML.<br>
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-tester&show_icons=true&locale=en&layout=compact" alt="sa-tester" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa-tester&show_icons=true&locale=en" alt="sa-tester" />
+</p>
 
 <br>
-
-<div id="badges" align="center">
-  <h4>Find me on</h4>
-  <a href="https://www.linkedin.com/in/sanjana-attanayake/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
-<br>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SA-Tester&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<br>
-
-### :fire: Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SA-Tester&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SA-Tester&show_icons=true&theme=radical)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-tester&" alt="sa-tester" /></p>
