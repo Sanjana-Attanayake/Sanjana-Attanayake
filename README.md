@@ -2,9 +2,9 @@
 <h3 align="center">Just another curious tech enthusiast</h3>
 <p align="center"><a href="https://linkedin.com/in/sanjana-attanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-attanayake" height="30" width="40" /></a></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sa-tester&label=Profile%20views&color=0e75b6&style=flat" alt="sa-tester" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjana-attanayake&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana-attanayake" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sa-tester" alt="sa-tester" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjana-attanayake" alt="sanjana-attanayake" /></a> </p>
 
 <p align="center">- 📫 How to reach me <b>siattanayake@gmail.com</b></p>
 
@@ -97,9 +97,9 @@
 
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-tester&show_icons=true&locale=en&layout=compact" alt="sa-tester" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa-tester&show_icons=true&locale=en" alt="sa-tester" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjana-attanayake&show_icons=true&locale=en&layout=compact" alt="sanjana-attanayake" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjana-attanayake&show_icons=true&locale=en" alt="sanjana-attanayake" />
 </p>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-tester&" alt="sa-tester" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana-attanayake&" alt="sanjana-attanayake" /></p>
